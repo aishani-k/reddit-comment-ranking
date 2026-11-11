@@ -1,0 +1,11 @@
+rank_position,comment_id,timestamp,upvotes,downvotes,net_score,is_newer,reserved_slot
+1,comment_015,15,116,6,110,False,False
+2,comment_004,4,109,1,108,False,False
+3,comment_005,5,103,2,101,False,False
+4,comment_058,58,71,0,71,True,True
+5,comment_020,20,104,5,99,False,False
+6,comment_007,7,110,12,98,False,False
+7,comment_057,57,76,8,68,True,True
+8,comment_006,6,97,0,97,False,False
+9,comment_000,0,97,8,89,False,False
+10,comment_001,1,96,7,89,False,False

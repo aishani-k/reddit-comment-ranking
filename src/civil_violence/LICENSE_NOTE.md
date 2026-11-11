@@ -1,0 +1,1 @@
+The preserved Epstein Civil Violence files originate from the Mesa project, Mesa tag v3.3.1. Consult the upstream Mesa repository for the applicable Apache-2.0 license and notices: https://github.com/mesa/mesa/blob/v3.3.1/LICENSE. This note is not a replacement for the upstream license.
